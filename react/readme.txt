@@ -15,3 +15,5 @@ npm install -D @babel/preset-react
 
 #Install react ,react-dom
 npm i react react-dom
+
+npm i -D prop-types
